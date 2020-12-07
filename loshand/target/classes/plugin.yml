@@ -1,0 +1,4 @@
+name: Loshand
+version: 1.0-SNAPSHOT
+main: loshand.loshand.Loshand
+api-version: 1.14
